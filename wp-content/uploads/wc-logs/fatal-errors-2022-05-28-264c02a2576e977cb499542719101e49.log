@@ -1,0 +1,150 @@
+2022-05-28T08:59:56+00:00 CRITICAL syntax error, unexpected '<' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 29
+
+2022-05-28T08:59:56+00:00 CRITICAL syntax error, unexpected '<' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 29
+
+2022-05-28T08:59:56+00:00 CRITICAL syntax error, unexpected '<' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 29
+
+2022-05-28T09:02:30+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 37
+
+2022-05-28T09:02:31+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 37
+
+2022-05-28T09:18:18+00:00 CRITICAL syntax error, unexpected ',' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 32
+
+2022-05-28T09:18:18+00:00 CRITICAL syntax error, unexpected ',' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 32
+
+2022-05-28T09:19:19+00:00 CRITICAL syntax error, unexpected ''Введіть значенн' (T_CONSTANT_ENCAPSED_STRING), expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 36
+
+2022-05-28T09:19:20+00:00 CRITICAL syntax error, unexpected ''Введіть значенн' (T_CONSTANT_ENCAPSED_STRING), expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 36
+
+2022-05-28T09:19:58+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:19:59+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:34+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:35+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:37+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:38+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:41+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:42+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:45+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:20:45+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 44
+
+2022-05-28T09:21:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_wp_text_input(), 0 passed in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php on line 38 and exactly 1 expected in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\wc-meta-box-functions.php:19
+Stack trace:
+#0 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php(38): woocommerce_wp_text_input()
+#1 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(307): {closure}()
+#2 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\plugin.php(476): WP_Hook->do_action()
+#4 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-general.php(206): do_action()
+#5 D:\FullStac у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\wc-meta-box-functions.php доступно 19
+
+2022-05-28T09:21:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_wp_text_input(), 0 passed in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php on line 38 and exactly 1 expected in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\wc-meta-box-functions.php:19
+Stack trace:
+#0 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php(38): woocommerce_wp_text_input()
+#1 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(307): {closure}()
+#2 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\plugin.php(476): WP_Hook->do_action()
+#4 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-general.php(206): do_action()
+#5 D:\FullStac у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\wc-meta-box-functions.php доступно 19
+
+2022-05-28T10:10:52+00:00 CRITICAL syntax error, unexpected ':', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 46
+
+2022-05-28T10:10:55+00:00 CRITICAL syntax error, unexpected ':', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 46
+
+2022-05-28T10:10:56+00:00 CRITICAL syntax error, unexpected ':', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 46
+
+2022-05-28T10:10:56+00:00 CRITICAL syntax error, unexpected ':', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 46
+
+2022-05-28T10:11:45+00:00 CRITICAL syntax error, unexpected ':', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 47
+
+2022-05-28T10:11:45+00:00 CRITICAL syntax error, unexpected ':', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 47
+
+2022-05-28T10:33:37+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 56
+
+2022-05-28T11:03:45+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 59
+
+2022-05-28T11:05:45+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 59
+
+2022-05-28T11:06:40+00:00 CRITICAL syntax error, unexpected 'woocommerce_wp_select' (T_STRING) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 61
+
+2022-05-28T11:06:41+00:00 CRITICAL syntax error, unexpected 'woocommerce_wp_select' (T_STRING) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 61
+
+2022-05-28T11:06:41+00:00 CRITICAL syntax error, unexpected 'woocommerce_wp_select' (T_STRING) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 61
+
+2022-05-28T11:07:48+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 60
+
+2022-05-28T11:07:49+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 60
+
+2022-05-28T11:15:18+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 60
+
+2022-05-28T11:15:19+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS) у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 60
+
+2022-05-28T11:29:15+00:00 CRITICAL syntax error, unexpected ''Выпадающий спис' (T_CONSTANT_ENCAPSED_STRING), expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 66
+
+2022-05-28T11:29:16+00:00 CRITICAL syntax error, unexpected ''Выпадающий спис' (T_CONSTANT_ENCAPSED_STRING), expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 66
+
+2022-05-28T11:29:33+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 71
+
+2022-05-28T11:29:34+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 71
+
+2022-05-28T11:31:03+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 70
+
+2022-05-28T11:31:04+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 70
+
+2022-05-28T11:32:35+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 76
+
+2022-05-28T11:32:36+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 76
+
+2022-05-28T11:33:17+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 71
+
+2022-05-28T11:33:18+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 71
+
+2022-05-28T11:33:53+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 70
+
+2022-05-28T11:33:54+00:00 CRITICAL syntax error, unexpected ';', expecting ')' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 70
+
+2022-05-28T11:34:29+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 76
+
+2022-05-28T11:34:29+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 76
+
+2022-05-28T12:07:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Data::update_meta_data(), 1 passed in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php on line 82 and at least 2 expected in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:434
+Stack trace:
+#0 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php(82): WC_Data->update_meta_data()
+#1 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(309): {closure}()
+#2 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\plugin.php(476): WP_Hook->do_action()
+#4 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-meta-boxes.php(248): do_action()
+#5 D:\FullStackDeveloper\OpenS у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php доступно 434
+
+2022-05-28T12:11:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Data::update_meta_data(), 1 passed in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php on line 82 and at least 2 expected in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:434
+Stack trace:
+#0 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php(82): WC_Data->update_meta_data()
+#1 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(309): {closure}()
+#2 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\plugin.php(476): WP_Hook->do_action()
+#4 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-meta-boxes.php(248): do_action()
+#5 D:\FullStackDeveloper\OpenS у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php доступно 434
+
+2022-05-28T12:32:29+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 112
+
+2022-05-28T12:32:30+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 112
+
+2022-05-28T12:33:43+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 106
+
+2022-05-28T12:33:44+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 106
+
+2022-05-28T12:33:44+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 106
+
+2022-05-28T12:33:51+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 106
+
+2022-05-28T12:33:51+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 106
+
+2022-05-28T12:33:52+00:00 CRITICAL syntax error, unexpected end of file у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 106
+

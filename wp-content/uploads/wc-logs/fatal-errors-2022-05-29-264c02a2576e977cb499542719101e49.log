@@ -1,0 +1,8 @@
+2022-05-29T16:48:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function variation_settings_fields(), 1 passed in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php on line 307 and exactly 3 expected in D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php:105
+Stack trace:
+#0 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(307): variation_settings_fields()
+#1 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-includes\plugin.php(476): WP_Hook->do_action()
+#3 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-general.php(206): do_action()
+#4 D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(42): include('D:\\FullStackDev...' у D:\FullStackDeveloper\OpenServer\domains\AbeloHost\wp-content\themes\envo-marketplace-child\functions.php доступно 105
+
